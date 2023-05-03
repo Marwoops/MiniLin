@@ -1,0 +1,4 @@
+(executable
+  (name minilin)
+  (libraries minilin)
+  (promote (until-clean)))
